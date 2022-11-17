@@ -1,0 +1,5 @@
+~  # clusters  :  2
+~  list of atoms per cluster:
+~    [106, 103]
+~  list of atoms per fragment:
+~    [787, 693]

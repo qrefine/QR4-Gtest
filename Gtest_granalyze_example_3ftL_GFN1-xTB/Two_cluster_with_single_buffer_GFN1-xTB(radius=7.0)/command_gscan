@@ -1,0 +1,2 @@
+qr.gtest 3ftl_refine_001_complete.pdb g_scan="10" restraints=qm engine_name=xtb quantum.method='--gfn 1 --gbsa h2o' cluster.select_within_radius=7.0 > 3ftl_gfn1_g_scan.log 2>&1 & 
+
