@@ -1,0 +1,31 @@
+Reading: 3ftl_refine_001_complete.pdb
+Found the following files:
+['0-0.npy', '1-10.npy', '3-10.npy']
+
+Found supercell calc
+reference gradient taken from: 0-0.npy 
+
+     ~g_mode - max_res: 0-0
+ d(angle)  0.000000
+ d(gnorm)  0.000000
+ d(max_g)  0.000000
+ d(min_g)  0.000000
+ RMSD      0.000000
+ MAD       0.000000
+ 
+     ~g_mode - max_res: 1-10
+ d(angle)  6.048178
+ d(gnorm)  0.535508
+ d(max_g)  0.145416
+ d(min_g)  0.002354
+ RMSD      0.773729
+ MAD       0.516499
+ 
+     ~g_mode - max_res: 3-10
+ d(angle)  0.660381
+ d(gnorm)  0.036050
+ d(max_g)  0.055635
+ d(min_g)  0.001045
+ RMSD      0.104701
+ MAD       0.071278
+ 
