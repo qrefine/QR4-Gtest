@@ -1,5 +1,9 @@
 # QR4-Gtest
 Gradient error analysis from Optimal clustering for quantum refinement of biomolecular structures: Q|R#4
+(2023) Theor. Chem. Acc. 142, 100.
+DOI: [10.1007/s00214-023-03046-0](https://doi.org/10.1007/s00214-023-03046-0)
+bioRxiv 2022.11.24.517825
+DOI:[10.1101/2022.11.24.517825](doi: https://doi.org/10.1101/2022.11.24.517825)
 
 1. Atomic model and reflection data files have been obtained from the RCSB PDB Database and then refined using phenix.refine using default settings. The model was next completed by adding hydrogen atoms using the qr.finalise tool that is part of the Q|R software suite.
 
