@@ -10,3 +10,5 @@ DOI:[10.1101/2022.11.24.517825](https://doi.org/10.1101/2022.11.24.517825)
 2. Gradient analysis were performed using qr.gtest and qr.granalyse. In qr.gtest gradients were computed using the TeraChem and xtb packages as QM engines, with HF-gCP-D3/6-31G and GFN1-xTB as quantum methods. The commands and all relevant input and output files are provided taking 3ftL, two clusters, single- and double-buffer cases with GFN1-xTB method as examples. Reference super-sphere gradient is collected in 0-0.npy file, while gradients computed with single and double buffers are colected in 1-10.npy and 3-10.npy files, respectively. qr.granalyze reads these npy files and computes gradient errors which are written into B-factor field in files 1-10.pdb and 3-10.pdb, rspectively. See Gtest_granalyze_example_3ftL_GFN1-xTB directory.
 
 3. PDB files with atomic gradient errors written into the B-factor field are collected in directories labelled by relevant sections from the manuscript: 3.1_supersphere, 3.2_clustering, 3.3_buffer_3ftL_and_3q2c, 3.4_larger_proteins.
+
+Paper data Release with DOI: [10.5281/zenodo.14289272](https://doi.org/10.5281/zenodo.14289272)
